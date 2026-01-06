@@ -1,0 +1,8 @@
+{
+  "name": "JanJanCap",
+  "description": "A professional AI-powered video captioning tool that extracts audio to text, allows custom styling, positioning, and exports high-quality videos with permanent overlays.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
